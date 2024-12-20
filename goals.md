@@ -11,12 +11,16 @@ Cornfield (June 14th)
 Gravel worlds (Aug 20-23rd)
 Harvest Moon (Sept 12th)
 
-## Training Goals
+## Food
 
-Biking 2024: Miles 167
+- https://www.hammernutrition.com/STEVEN19232
+
+## Training Goals
 
 Biking 2025: Miles 4500
     - 12 miles a day
+
+Running 2024: Monthly race / group activity
 
 ## Idea
 
