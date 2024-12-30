@@ -4,12 +4,26 @@ Find an easy way to manage outdoor actives for family and friends
 
 ## Currently Planned
 
-Winter Challenge (Jan 1st)
-Leprechaun Chase (March 1st)
-Early Bird (April 5th)
-Cornfield (June 14th)
-Gravel worlds (Aug 20-23rd)
-Harvest Moon (Sept 12th)
+January
+    - Winter Challenge (Jan 1st)
+February
+March
+    - Leprechaun Chase (March 1st)
+    - Fight for Air Climb (March 30th)
+April
+    - Early Bird (April 5th)
+May
+June
+    - Cornfield (June 14th)
+July
+August
+    - Gravel worlds (Aug 20-23rd)
+September
+    - Harvest Moon (Sept 12th)
+October
+November
+    - Goodlife Halfsy (Nov 9th)
+December
 
 ## Food
 
@@ -17,8 +31,8 @@ Harvest Moon (Sept 12th)
 
 ## Training Goals
 
-Biking 2025: Miles 4500
-    - 12 miles a day
+Biking 2025: Miles 5000
+    - 14 miles a day
 
 Running 2024: Monthly race / group activity
 
