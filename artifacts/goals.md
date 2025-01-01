@@ -4,13 +4,13 @@ Find an easy way to manage outdoor actives for family and friends
 
 ## Currently Planned
 
-January
-    - Winter Challenge (Jan 1st)
-February
-    - N/A
-March
-    - Leprechaun Chase (March 1st)
-    - Fight for Air Climb (March 30th)
+- January
+  - Winter Challenge (Jan 1st)
+- February
+  - N/A
+- March
+  - Leprechaun Chase (March 1st)
+  - Fight for Air Climb (March 30th)
 April
     - Early Bird (April 5th)
 May
