@@ -1,6 +1,7 @@
 # Project Specifications
 **/credentials.json
 **/token.pickle
+**/settings.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

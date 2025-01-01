@@ -59,15 +59,10 @@ Find an easy way to manage outdoor actives for family and friends
 - Every Saturday @ 7 AM | Normal Runs
 - Every tuesday @ 6 PM | Training Program
 
-## Training Goals
-
-- 2025 Goal: 5500 miles
-  - 15 miles a day
-  - 458 miles per month
-
 ## Idea
 
-- https://www.lincoln.ne.gov/City/Departments/Parks-and-Recreation/Calendar-and-Events
-- https://runningintheusa.com/classic/list/5k/upcoming/ne
-- https://www.lincolnrun.org/races
-- https://findarace.com/us/running/5k-runs/nebraska/lincoln
+- [Lincoln Calendar](https://www.lincoln.ne.gov/City/Departments/Parks-and-Recreation/Calendar-and-Events)
+- [Lincoln Running Club](https://www.lincolnrun.org/races)
+- [Fleet Feet Lincoln](https://www.fleetfeet.com/s/lincoln/events)
+- [Find a Race](https://findarace.com/us/running/5k-runs/nebraska/lincoln)
+- [USA Running](https://runningintheusa.com/classic/list/5k/upcoming/ne)
