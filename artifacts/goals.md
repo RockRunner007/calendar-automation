@@ -11,25 +11,25 @@ Find an easy way to manage outdoor actives for family and friends
 - March
   - Leprechaun Chase (March 1st)
   - Fight for Air Climb (March 30th)
-April
-    - Early Bird (April 5th)
-May
-    - Marathon (May 4th)
-June
-    - Optional Havelock Charity Run (June 7th)
-    - Cornfield (June 14th)
-July
-    - N/A
-August
-    - Gravel worlds (Aug 20-23rd)
-September
-    - Harvest Moon (Sept 12th)
-October
-    - N/A
-November
-    - Goodlife Halfsy (Nov 9th)
-December
-    - Optional Holiday Run (Dec 7th)
+- April
+  - Early Bird (April 5th)
+- May
+  - Marathon (May 4th)
+- June
+  - Optional Havelock Charity Run (June 7th)
+  - Cornfield (June 14th)
+- July
+  - N/A
+- August
+  - Gravel worlds (Aug 20-23rd)
+- September
+  - Harvest Moon (Sept 12th)
+- October
+  - N/A
+- November
+  - Goodlife Halfsy (Nov 9th)
+- December
+  - Optional Holiday Run (Dec 7th)
 
 ## TBD
 
@@ -59,8 +59,8 @@ December
 
 ## Training Goals
 
-Biking 2025: Miles 5500
-    - 15 miles a day
+- Biking 2025: Miles 5500
+  - 15 miles a day
 
 ## Idea
 
