@@ -7,6 +7,7 @@ Outcome of the project is to generate a [shared calendar](https://calendar.googl
 ## generate credentials
 
 - [online resource](https://medium.com/@ayushbhatnagarmit/supercharge-your-scheduling-automating-google-calendar-with-python-87f752010375)
+- [source code](https://github.com/zen-juen/AutoCalendar/blob/main/autocalendar/autocalendar.py)
 
 ## Python Setup
 

@@ -38,7 +38,6 @@ def configure_logging():
         format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO
     )
 
-
 def main():
     """Shows basic usage of the Google Calendar API.
     Lists the next 10 events on the user's calendar.

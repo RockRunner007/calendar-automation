@@ -28,6 +28,7 @@ Find an easy way to manage outdoor actives for family and friends
   - N/A
 - November
   - Goodlife Halfsy (Nov 9th)
+  - Optional Turkey Trot
 - December
   - Optional Holiday Run (Dec 7th)
 
@@ -42,6 +43,11 @@ Find an easy way to manage outdoor actives for family and friends
 - [Prairie Run 2024](https://www.lincoln.ne.gov/City/Departments/Parks-and-Recreation/Calendar-and-Events/Prairie-Run-2024)
 - [Prairie to Prairie 2024](https://www.lincoln.ne.gov/City/Departments/Parks-and-Recreation/Calendar-and-Events/Prairie-to-Prairie)
 
+## Future Runs
+
+- [grandmas marathon](https://grandmasmarathon.com/)
+- [The WYO-131 Gravel Race](https://www.wyo131.com/)
+
 ## Group Rides
 
 - Every Sunday @ 2 PM
@@ -53,14 +59,11 @@ Find an easy way to manage outdoor actives for family and friends
 - Every Saturday @ 7 AM | Normal Runs
 - Every tuesday @ 6 PM | Training Program
 
-## Food
-
-- https://www.hammernutrition.com/STEVEN19232
-
 ## Training Goals
 
-- Biking 2025: Miles 5500
+- 2025 Goal: 5500 miles
   - 15 miles a day
+  - 458 miles per month
 
 ## Idea
 
